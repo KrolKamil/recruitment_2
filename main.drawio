@@ -1,0 +1,283 @@
+<mxfile host="app.diagrams.net" modified="2024-06-19T19:55:54.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KALSe4BdTjiQi9-X_B5v" version="24.2.2" type="device">
+  <diagram name="Strona-1" id="DosoIk-cxOrtkNcP-osp">
+    <mxGraphModel dx="3660" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-1" target="Ye-_vfyLdOvn20TMV67i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-40" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-1" target="Ye-_vfyLdOvn20TMV67i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-5" value="Get available items from&lt;br&gt;the warehouse" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-6" target="Ye-_vfyLdOvn20TMV67i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-6" value="Print:&lt;br&gt;items" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-14" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-16" target="Ye-_vfyLdOvn20TMV67i-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-16" value="User enters:&lt;br&gt;item id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-17" target="Ye-_vfyLdOvn20TMV67i-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-17" value="Get the item by &lt;br&gt;the item id &lt;br&gt;from the warehouse" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-49" value="&lt;font color=&quot;#080808&quot;&gt;NO&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-18" target="Ye-_vfyLdOvn20TMV67i-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-18" target="Ye-_vfyLdOvn20TMV67i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-65" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" connectable="0" parent="Ye-_vfyLdOvn20TMV67i-64">
+          <mxGeometry x="-0.2739" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-18" value="The item is available in the&lt;br&gt;warehouse" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-19" target="Ye-_vfyLdOvn20TMV67i-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-19" value="basket = []" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-20" target="Ye-_vfyLdOvn20TMV67i-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-20" value="&lt;div&gt;Add the item to&lt;/div&gt;the basket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-22" value="Print:&lt;br&gt;Successfully added to the basket" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="115" y="820" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-23" value="Print:&lt;br&gt;Item is not available" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-24" value="Stop" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-25" value="Stop" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="449" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-26" target="Ye-_vfyLdOvn20TMV67i-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-26" value="Lock the item in the warehouse" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;There should be a mechanism that&lt;br&gt;removes items from the basket&lt;br&gt;and&lt;br&gt;&amp;nbsp;unlocks them in the warehouse &lt;br&gt;if they have not been purchased.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="370" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-36" value="" style="endArrow=classic;html=1;strokeColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="Ye-_vfyLdOvn20TMV67i-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="130" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-44" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-5" target="Ye-_vfyLdOvn20TMV67i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-22" target="Ye-_vfyLdOvn20TMV67i-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-23" target="Ye-_vfyLdOvn20TMV67i-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="775" />
+              <mxPoint x="504" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-57" target="Ye-_vfyLdOvn20TMV67i-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-62" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" connectable="0" parent="Ye-_vfyLdOvn20TMV67i-58">
+          <mxGeometry x="-0.6516" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-57" target="Ye-_vfyLdOvn20TMV67i-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-63" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" connectable="0" parent="Ye-_vfyLdOvn20TMV67i-59">
+          <mxGeometry x="-0.4353" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-57" value="Warehouse confirmed lock" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="275" y="630" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-66" value="&lt;font color=&quot;#ffffff&quot;&gt;Add an item to the basket&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-67" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="10" as="sourcePoint" />
+            <mxPoint x="1080" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-68" value="&lt;font color=&quot;#ffffff&quot;&gt;Show the basket items&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="95" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-70" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-71" target="Ye-_vfyLdOvn20TMV67i-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-71" value="basket = [&lt;br&gt;item1,&lt;br&gt;item2]" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-72" target="Ye-_vfyLdOvn20TMV67i-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-72" value="Print:&lt;br&gt;basket" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-73" value="Stop" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-76" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" as="sourcePoint" />
+            <mxPoint x="1450" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-77" value="&lt;font color=&quot;#ffffff&quot;&gt;Remove an item from the basket&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="20" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1640" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-79" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-80" target="Ye-_vfyLdOvn20TMV67i-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-80" value="basket = [&lt;br&gt;item1,&lt;br&gt;item2]" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-81" target="Ye-_vfyLdOvn20TMV67i-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-81" value="User enters:&lt;br&gt;item id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-83" target="Ye-_vfyLdOvn20TMV67i-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-83" value="Unlock the item&lt;br&gt;in the warehouse" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-84" target="Ye-_vfyLdOvn20TMV67i-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-95" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" connectable="0" parent="Ye-_vfyLdOvn20TMV67i-94">
+          <mxGeometry x="-0.1269" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-84" target="Ye-_vfyLdOvn20TMV67i-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-97" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" connectable="0" parent="Ye-_vfyLdOvn20TMV67i-96">
+          <mxGeometry x="-0.5509" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-84" value="Warehouse confirmed" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#1A1A1A;fillColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="570" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-88" target="Ye-_vfyLdOvn20TMV67i-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-88" value="Remove &lt;br&gt;the item&lt;br&gt;&amp;nbsp;from &lt;br&gt;the basket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-89" target="Ye-_vfyLdOvn20TMV67i-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-89" value="Print:&lt;br&gt;Removed item&lt;br&gt;&amp;nbsp;from basket" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-90" value="Stop" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="885" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="Ye-_vfyLdOvn20TMV67i-91" target="Ye-_vfyLdOvn20TMV67i-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1855" y="845" />
+              <mxPoint x="1635" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-91" value="Print:&lt;br&gt;Temporarily unable to&lt;br&gt;remove the item from the basket" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;strokeColor=#FFFFFF;rounded=0;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="645" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-100" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="25" as="sourcePoint" />
+            <mxPoint x="2000" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-101" value="&lt;font color=&quot;#ffffff&quot;&gt;Change &lt;br&gt;the number of items in the basket&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-102" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;For adding an item the same as in:&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&quot;Add an item to the basket&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;For removing an item the same as in:&lt;br&gt;&quot;Remove an item from the basket&quot;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fillColor=#EEEEEE;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="110" width="410" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-103" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2490" y="25" as="sourcePoint" />
+            <mxPoint x="2490" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-104" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;I was not sure how to fit the requirement:&amp;nbsp;&lt;br&gt;&lt;br&gt;&quot;Updating the total price of the basket after each change&quot;&lt;br&gt;&lt;br&gt;Probably representing this requirement does not fit well in my design.&lt;br&gt;&lt;br&gt;&lt;br&gt;I could create a block diagram that&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;after each change in the basket&lt;br&gt;&amp;nbsp;iterates over items&lt;br&gt;and for each iteration &lt;br&gt;adds the item price to a variable&lt;br&gt;and at the end prints it.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#2EFF8F;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="75" width="440" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-110" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I assume that the user is&lt;br&gt;the owner of the basket.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#82E2FF;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="20" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-111" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I assume that the user is&lt;br&gt;the owner of the basket.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#82E2FF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="25" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye-_vfyLdOvn20TMV67i-113" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I assume that the user is&lt;br&gt;the owner of the basket.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#82E2FF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="25" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
